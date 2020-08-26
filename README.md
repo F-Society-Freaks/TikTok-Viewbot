@@ -23,7 +23,7 @@ I tried running two instances of the program, and surprisingly, it worked; sent 
 
 ## Check Google Chrome version
 1. Navigate to the three dots at the top right corner of Google Chrome.
-2. Select "Help", and click "About Google Chrome".
+2. Select "Help", and click "About Google Chrome".<br>
 ![](https://i.imgur.com/PiL1MEy.png)<br>
 ![](https://i.imgur.com/aluXidt.png)
 
