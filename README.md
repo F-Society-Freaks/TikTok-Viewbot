@@ -2,8 +2,8 @@
 Repeatedly sends TikTok Views to a video of choice.
 
 ## Information
-This tool was developed to demonstrate how straightforward it is to automate a service like [vipto.de](https://vipto.de/). They have their own TikTok Viewbot you can use, but can only send 1000 views each minute — it was recently changed from 30 to 60 seconds. My script automates that process, helping you go AFK (away from keyboard). Simply paste a TikTok video URL, come back in an hour and the TikTok video should have 60.000 more views! You will receive 1.440.000 views a day.<br>
-I developed this bot because people are currently selling bots automating [vipto.de](https://vipto.de/), when really it is extremely easy to develop — it took me approximately 10 minutes.<br>
+This tool was developed to demonstrate how straightforward it is to automate a service like [vipto.de](https://vipto.de/). They have their own TikTok Viewbot you can use, but can only send 1000 views each minute — it was recently changed from 30 to 60 seconds. My script automates that process, helping you go AFK (away from keyboard). Simply paste a TikTok video URL, come back in an hour and the TikTok video should have 60.000 more views! You will receive 1.440.000 views a day.<br><br>
+I developed this bot because people are currently selling bots automating [vipto.de](https://vipto.de/), when really it is extremely easy to develop — it took me approximately 10 minutes.<br><br>
 I tried running two instances of the program, and surprisingly, it worked; sent twice as many views. Usage of this tool will definitely cause the targeted video to be on the TikTok "For You" page — increases chances to become TikTok famous. Please refrain from using this **TikTok Automated Viewbot** as viewbotting is against TikTok's Terms of Service. Nevertheless, if you use this, you are doing it at your own risk. You have been warned.
 
 ## Preview
